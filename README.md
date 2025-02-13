@@ -13,9 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1uIFVGeFVF98hLcbOJYdtoXlUqfzwoDd5/view?usp=drive_link" type="video/mp4">
-  Your browser does
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
