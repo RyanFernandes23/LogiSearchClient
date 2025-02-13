@@ -75,14 +75,14 @@ export default function Home() {
 
     try {
       const [textResponse, imageResponse] = await Promise.all([
-        fetch('http://localhost:8000/textlinks', {
+        fetch(process.env.NEXT_PUBLIC_TEXT_API_URL, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({ message: input.trim() })
         }),
-        fetch('http://localhost:8000/imagelinks', {
+        fetch(process.env.NEXT_PUBLIC_IMAGE_API_URL, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
