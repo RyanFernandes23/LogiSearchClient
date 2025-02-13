@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[video](https://github.com/user-attachments/assets/496f0ab0-d78c-4a9b-a4d5-9b4299da5e75)
 ## Getting Started
 
 First, run the development server:
@@ -13,8 +14,6 @@ pnpm dev
 # or
 bun dev
 ```
-Video
-https://github.com/user-attachments/assets/496f0ab0-d78c-4a9b-a4d5-9b4299da5e75
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
