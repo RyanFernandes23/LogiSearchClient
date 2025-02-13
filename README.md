@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-[Video Title](Your_UrlPath_For_Video)
+[Video Title]([Your_UrlPath_For_Video](https://drive.google.com/file/d/1uIFVGeFVF98hLcbOJYdtoXlUqfzwoDd5/view?usp=drive_link))
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
