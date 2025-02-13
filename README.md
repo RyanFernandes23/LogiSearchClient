@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+Video
+https://github.com/user-attachments/assets/496f0ab0-d78c-4a9b-a4d5-9b4299da5e75
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -22,6 +24,9 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
+
+
+
 
 To learn more about Next.js, take a look at the following resources:
 
