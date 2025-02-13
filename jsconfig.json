@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",  // This sets the root of the project
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
